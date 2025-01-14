@@ -1,0 +1,8 @@
+{
+  "name": "deps",
+  "packageManager": "yarn@4.1.1",
+  "devDependencies": {
+    "playwright": "^1.49.1",
+    "w3wallets": "^0.1.2"
+  }
+}
